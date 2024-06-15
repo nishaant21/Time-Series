@@ -1,8 +1,8 @@
 # Time Series With LSTM: Air Quality Prediction Using LSTM
 
-# Overview: This project aims to predict air quality, specifically the PM2.5 index, using a Long Short-Term Memory (LSTM) neural network. The dataset used contains historical PM2.5 measurements from various timestamps. The model is trained to understand patterns and trends in the data to make future predictions.
+## Overview: This project aims to predict air quality, specifically the PM2.5 index, using a Long Short-Term Memory (LSTM) neural network. The dataset used contains historical PM2.5 measurements from various timestamps. The model is trained to understand patterns and trends in the data to make future predictions.
 
-Goal: The goal of this analysis is to understand the patterns influencing air quality over time. By exploring various features such as timestamps and PM2.5 values, the aim is to build a predictive model to identify key drivers of air quality changes. The analysis seeks to uncover insights that can help in improving air quality management strategies.
+## Goal: The goal of this analysis is to understand the patterns influencing air quality over time. By exploring various features such as timestamps and PM2.5 values, the aim is to build a predictive model to identify key drivers of air quality changes. The analysis seeks to uncover insights that can help in improving air quality management strategies.
 
 ## Introduction
 Air quality prediction is crucial for environmental monitoring and public health. This project aims to predict the PM2.5 index, which is a common measure of air pollution, using machine learning techniques. Accurate predictions allow authorities to take proactive measures to improve air quality.
